@@ -653,6 +653,9 @@ img {
     fill: #fff;
 
 }
+.modal-button-svg:focus {
+    fill: #fff;
+}
 
 
 .modal-button-svg {
