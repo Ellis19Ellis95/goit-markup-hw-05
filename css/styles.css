@@ -654,10 +654,14 @@ img {
 
 .modal-button-svg:focus {
 fill: #fff;
+
 }
     
 .modal-button-svg:hover {
     fill: #fff;
+    border-radius: 2px;
+    border: 1px;
+    border-color: #2e2f42;
 }
 
 
@@ -764,7 +768,7 @@ fill: #fff;
 bbbb
 
 
-.checkbox-box-svg {
+.checkbox-box-svg:hover {
     margin-bottom: 24px;
     border-radius: 2px;
     border: 1px ;
