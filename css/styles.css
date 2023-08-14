@@ -656,13 +656,18 @@ img {
 fill: #fff;
 
 }
-    
+    mmm
 .modal-button-svg:hover {
     fill: #fff;
-    border-radius: 8px;
-    border: 8px;
-    border-color: #2e2f42;
+   
 }
+
+.privacy-checkbox:hover {
+border-radius: 21px;
+border: 11px;
+border-color: #2e2f42;    
+}
+
 
 
 .modal-button-svg {
@@ -765,15 +770,10 @@ fill: #fff;
     letter-spacing: 0.04em;
     color: rgba(46, 47, 66, 0.4);
 }
-bbbb
 
 
-.checkbox-box-svg:hover {
-    margin-bottom: 24px;
-    border-radius: 2px;
-    border: 1px ;
-    border-color:#2e2f42;
-}
+
+
 
 .privacy-checkbox:checked+.privacy-label>.checkbox-box-svg 
 {   background-color: #404bbf;
