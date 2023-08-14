@@ -764,7 +764,8 @@ fill: #fff;
 bbbb
 .checkbox-box {
     margin-bottom: 24px;
-    border-radius: 1px;
+    border-radius: 2px;
+    border: 1px solid;
     border-color:#2e2f42;
 
 }
