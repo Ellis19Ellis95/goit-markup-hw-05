@@ -769,12 +769,14 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .checkbox-box {
     margin-bottom: 24px;
 }
-
-
+mm
+.privacy-checkbox {
+    border-color:#2e2f42;
+    border-radius: 10px;   
+}
 
 .privacy-checkbox:checked+.privacy-label>.checkbox-box-svg {   background-color: #404bbf;
-    border-color:#2e2f42;
-    border-radius: 10px;
+    
     fill: var(--accent-background-color);
 }
 
