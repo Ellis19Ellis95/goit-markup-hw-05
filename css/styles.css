@@ -762,12 +762,12 @@ fill: #fff;
     color: rgba(46, 47, 66, 0.4);
 }
 bbbb
-.checkbox-box {
+
+.privacy-checkbox{
     margin-bottom: 24px;
     border-radius: 2px;
     border: 1px solid;
     border-color:#2e2f42;
-
 }
 
 .privacy-checkbox:checked+.privacy-label>.checkbox-box-svg 
