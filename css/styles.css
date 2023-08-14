@@ -648,11 +648,12 @@ img {
     background-color: #404bbf;
 }
 
-.modal-button:hover,
+/*.modal-button:hover,
 .modal-button:focus {
-    fill: #fff;
+    fill: #fff;8}
+    */
 
-}
+
 .modal-button-svg:focus {
     fill: #fff;
 }
