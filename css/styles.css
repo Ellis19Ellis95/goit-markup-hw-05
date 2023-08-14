@@ -763,10 +763,11 @@ fill: #fff;
 }
 bbbb
 
-.privacy-checkbox{
+
+.checkbox-box-svg {
     margin-bottom: 24px;
-    border-radius: 8px;
-    border: 1px solid;
+    border-radius: 2px;
+    border: 1px ;
     border-color:#2e2f42;
 }
 
