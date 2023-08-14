@@ -659,8 +659,8 @@ fill: #fff;
     
 .modal-button-svg:hover {
     fill: #fff;
-    border-radius: 2px;
-    border: 1px;
+    border-radius: 8px;
+    border: 8px;
     border-color: #2e2f42;
 }
 
