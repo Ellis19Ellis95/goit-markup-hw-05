@@ -833,13 +833,13 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     border-color: #8e8f99;
 }*/
 
-.checkbox-box-svg:focus {
-    border-color: #8e8f99;
-}
-
-/*.input:focus {
+/*.checkbox-box-svg:focus {
     border-color: #8e8f99;
 }*/
+
+.input:focus {
+    border-color: #8e8f99;
+}
 
 
 /* Portfolio */
