@@ -829,17 +829,6 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/*.privacy-checkbox:focus {
-    border-color: #8e8f99;
-}*/
-
-/*.checkbox-box-svg:focus {
-    border-color: #8e8f99;
-}*/
-
-input:focus {
-    border-color: #8e8f99;
-}
 
 
 /* Portfolio */
@@ -848,14 +837,14 @@ input:focus {
     padding-top: 96px;
     padding-bottom: 120px;
 }
-
-
-
+mm
+.privacy-checkbox:focus+.privacy-label .checkbox-box-svg {
+    border-color: #434455;
+}
+   
 /* Filter */
 
-.visually-hidden {
-    display: none;
-}
+
 
 .filter-list {
     display: flex;
