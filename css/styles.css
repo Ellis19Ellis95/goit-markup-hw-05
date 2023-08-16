@@ -829,7 +829,10 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-
+.privacy-checkbox:focus+.privacy-label .checkbox-box-svg {
+    border-color: #8e8f99;
+}
+   
 
 /* Portfolio */
 
@@ -838,10 +841,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     padding-bottom: 120px;
 }
 
-.privacy-checkbox:focus+.privacy-label>.checkbox-box-svg {
-    border-color:#31d0aa;
-}
-   
+
 /* Filter */
 
 
